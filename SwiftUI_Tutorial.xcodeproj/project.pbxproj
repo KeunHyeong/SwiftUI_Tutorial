@@ -13,6 +13,8 @@
 		18397549254554AB00DDFCB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18397548254554AB00DDFCB1 /* Assets.xcassets */; };
 		1839754C254554AB00DDFCB1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1839754B254554AB00DDFCB1 /* Preview Assets.xcassets */; };
 		1839754F254554AB00DDFCB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1839754D254554AB00DDFCB1 /* LaunchScreen.storyboard */; };
+		1839755B2545552100DDFCB1 /* MyStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1839755A2545552100DDFCB1 /* MyStackView.swift */; };
+		1839755D2545561300DDFCB1 /* MyTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1839755C2545561300DDFCB1 /* MyTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		1839754B254554AB00DDFCB1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1839754E254554AB00DDFCB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18397550254554AB00DDFCB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1839755A2545552100DDFCB1 /* MyStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStackView.swift; sourceTree = "<group>"; };
+		1839755C2545561300DDFCB1 /* MyTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				1839754D254554AB00DDFCB1 /* LaunchScreen.storyboard */,
 				18397550254554AB00DDFCB1 /* Info.plist */,
 				1839754A254554AB00DDFCB1 /* Preview Content */,
+				1839755A2545552100DDFCB1 /* MyStackView.swift */,
+				1839755C2545561300DDFCB1 /* MyTextView.swift */,
 			);
 			path = SwiftUI_Tutorial;
 			sourceTree = "<group>";
@@ -149,6 +155,8 @@
 				18397543254554A500DDFCB1 /* AppDelegate.swift in Sources */,
 				18397545254554A500DDFCB1 /* SceneDelegate.swift in Sources */,
 				18397547254554A500DDFCB1 /* ContentView.swift in Sources */,
+				1839755B2545552100DDFCB1 /* MyStackView.swift in Sources */,
+				1839755D2545561300DDFCB1 /* MyTextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
